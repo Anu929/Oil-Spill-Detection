@@ -14,21 +14,7 @@ AI-powered dashboard to predict marine oil spill incidents globally using machin
 
 ---
 
-## 📸 Dashboard Preview
 
-### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Prediction Results
-![Predictions](screenshots/predictions.png)
-
-### Interactive Charts
-![Charts](screenshots/charts.png)
-
-### Data Comparison
-![Comparison](screenshots/comparison.png)
-
----
 
 ## 🚀 Quick Start
 
